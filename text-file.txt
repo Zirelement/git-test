@@ -4,4 +4,7 @@ Cambio de branch  new-feature
 
 modificación 1.0
 
+new-feature 2.0
+
+new-feature 2.1
 MODIFICACION EN MAYUCULA EN MAIN
